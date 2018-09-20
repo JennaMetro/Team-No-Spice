@@ -1,4 +1,4 @@
-#Tue Sep 18 12:06:11 EEST 2018
-base.0=/Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Thu Sep 20 12:13:05 EEST 2018
+base.0=/Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/build/intermediates/transforms/dexMerger/debug/17
 path.0=classes.dex
 renamed.0=classes.dex
