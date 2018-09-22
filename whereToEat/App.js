@@ -1,9 +1,13 @@
 import React from 'react';
 import Home from './app/Components/Home';
-
+import { Text, View } from 'react-native';
 export default class App extends React.Component {
   render() {
-    return <Home/>
+    return (
+         <View>
+           <Text>places, plz work</Text>
+         </View>
+       );
+
   }
 }
-

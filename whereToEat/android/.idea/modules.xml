@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-google-places/android/react-native-google-places.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-google-places/android/react-native-google-places.iml" />
       <module fileurl="file://$PROJECT_DIR$/whereToEat.iml" filepath="$PROJECT_DIR$/whereToEat.iml" />
     </modules>
   </component>

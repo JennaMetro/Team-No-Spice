@@ -1,133 +1,270 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f9116a8febd9151dd3b1219f638e931e/AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/42864c660d44ff20bc332449c67f9e57/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:support-v4:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b4f7db29e102019cc4380cec906b5444/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a33e323bcd71e7bd6295ae9ce3ca1d07/AndroidManifest.xml:10:1-18:12
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/46cd73defff90ea0d2b3a21799daab60/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7a8f92ab800568c58f3fb13d8c70d11c/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/1e3807bc7d9e452595beed0bc605297a/AndroidManifest.xml:1:1-4:12
-MERGED from [org.webkit:android-jsc:r174650] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4d9c8835e3d6a1c22bcc2efa6f6d1fce/AndroidManifest.xml:1:1-3:12
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e611a5c0f47c467aa3f7c924342ed616/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6f2bfdbb744a14d2c545e59299b24940/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/61377026c724daa33e07fe505d8b6ab9/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/837c9c37dc1ca6b406073c312d4fd9bb/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\482195b33212cf40ab29c4489a020d72\AndroidManifest.xml:17:1-24:12
+MERGED from [:react-native-google-places] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-google-places\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-places:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.2.aar\0cfd3c793c3ecfec2cbf6dd406e5b42d\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\863aee8c318e2cc8abe3d6530295ac6c\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\3bd86ad8696ad778901e3da5905b31af\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\cfc26506617be0f7dc47b277b2043423\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dd47ca6b0e31cc34ba6d076113fc38f4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\ab48dc78e3cf0f4f0a6c5fbb0335035e\AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\2dbce94b07046030866e642f9ffb1ccd\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\07fddb3e22a108ace0c225b9225e49ef\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\daa79b8e5f9af47afcba74ef33cac7e0\AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\71f1a3ec134f055861343ad212f5e005\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\57b337dcfc0f52ba83171a2f36b43bf1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\9fa39f6821f325f66e575e3ed6cde2f4\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\570ac9828d0782a823405c2663f8cfe1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\10a77f73c9c008af8a4eb55f35eaec7a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\fbf23e4542c674ae76188b60a493b883\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f333e73704e320043bbd42cf95be9016\AndroidManifest.xml:17:1-27:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\788fd510a0764f6d691d9802e8fdb390\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9260c891c8e7194794ecf43be5170c79\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0f91f1785deee8b731c69ecefe44e424\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9e683eaf321c3115ce1d708232f4cc23\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\d103f0928a7d5a6b78a596c218a63e85\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-places-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.2.aar\df7343d649ea385cbd7ee8d0ac8f70aa\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\8b6614c7685cbc34fc3299900d91e420\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\c89cea99b036520dd1694adc4785ee6f\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\6caa1fbbe977a2e574433d79356eb1e5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\60a1d7fe535a5f4f864b634fcd482087\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
 	package
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:2:5-29
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:2:5-29
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f9116a8febd9151dd3b1219f638e931e/AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f9116a8febd9151dd3b1219f638e931e/AndroidManifest.xml:11:5-78
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:5:22-75
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:7:5-24:19
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f9116a8febd9151dd3b1219f638e931e/AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f9116a8febd9151dd3b1219f638e931e/AndroidManifest.xml:13:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/42864c660d44ff20bc332449c67f9e57/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/42864c660d44ff20bc332449c67f9e57/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b4f7db29e102019cc4380cec906b5444/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b4f7db29e102019cc4380cec906b5444/AndroidManifest.xml:22:5-20
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/1e3807bc7d9e452595beed0bc605297a/AndroidManifest.xml:3:3-17
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/1e3807bc7d9e452595beed0bc605297a/AndroidManifest.xml:3:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4d9c8835e3d6a1c22bcc2efa6f6d1fce/AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4d9c8835e3d6a1c22bcc2efa6f6d1fce/AndroidManifest.xml:2:3-17
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\482195b33212cf40ab29c4489a020d72\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\482195b33212cf40ab29c4489a020d72\AndroidManifest.xml:22:5-20
+MERGED from [:react-native-google-places] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-google-places\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-12:19
+MERGED from [:react-native-google-places] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-google-places\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-12:19
+MERGED from [com.google.android.gms:play-services-places:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.2.aar\0cfd3c793c3ecfec2cbf6dd406e5b42d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.2.aar\0cfd3c793c3ecfec2cbf6dd406e5b42d\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\863aee8c318e2cc8abe3d6530295ac6c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\863aee8c318e2cc8abe3d6530295ac6c\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\3bd86ad8696ad778901e3da5905b31af\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\3bd86ad8696ad778901e3da5905b31af\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\cfc26506617be0f7dc47b277b2043423\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\cfc26506617be0f7dc47b277b2043423\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dd47ca6b0e31cc34ba6d076113fc38f4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dd47ca6b0e31cc34ba6d076113fc38f4\AndroidManifest.xml:25:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\daa79b8e5f9af47afcba74ef33cac7e0\AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\daa79b8e5f9af47afcba74ef33cac7e0\AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\71f1a3ec134f055861343ad212f5e005\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\71f1a3ec134f055861343ad212f5e005\AndroidManifest.xml:2:3-17
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\57b337dcfc0f52ba83171a2f36b43bf1\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\57b337dcfc0f52ba83171a2f36b43bf1\AndroidManifest.xml:7:5-11:19
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\9fa39f6821f325f66e575e3ed6cde2f4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\9fa39f6821f325f66e575e3ed6cde2f4\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\570ac9828d0782a823405c2663f8cfe1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\570ac9828d0782a823405c2663f8cfe1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\10a77f73c9c008af8a4eb55f35eaec7a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\10a77f73c9c008af8a4eb55f35eaec7a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\fbf23e4542c674ae76188b60a493b883\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\fbf23e4542c674ae76188b60a493b883\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f333e73704e320043bbd42cf95be9016\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f333e73704e320043bbd42cf95be9016\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\d103f0928a7d5a6b78a596c218a63e85\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\d103f0928a7d5a6b78a596c218a63e85\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.2.aar\df7343d649ea385cbd7ee8d0ac8f70aa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-places-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.2.aar\df7343d649ea385cbd7ee8d0ac8f70aa\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\8b6614c7685cbc34fc3299900d91e420\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\8b6614c7685cbc34fc3299900d91e420\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\c89cea99b036520dd1694adc4785ee6f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\c89cea99b036520dd1694adc4785ee6f\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\6caa1fbbe977a2e574433d79356eb1e5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\6caa1fbbe977a2e574433d79356eb1e5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\60a1d7fe535a5f4f864b634fcd482087\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\60a1d7fe535a5f4f864b634fcd482087\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from [:react-native-google-places] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-google-places\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:9:7-39
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:9:7-39
 	android:icon
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:10:7-41
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:10:7-41
 	android:allowBackup
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:11:7-34
 	android:theme
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:12:7-38
 	android:name
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:8:7-38
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:8:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:13:9-15:70
+	android:value
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:15:13-68
+	android:name
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:14:13-58
 activity#com.wheretoeat.MainActivity
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:13:7-22:18
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:16:7-25:18
 	android:label
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:18:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:17:9-51
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:20:9-51
 	android:configChanges
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:16:9-79
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:19:9-79
 	android:name
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:14:9-37
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:17:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:18:9-21:25
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:21:9-24:25
 action#android.intent.action.MAIN
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:19:13-65
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:22:13-65
 	android:name
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:19:21-62
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:22:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:20:13-73
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:23:13-73
 	android:name
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:20:23-70
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:23:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:23:7-84
+ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:26:7-84
 	android:name
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:23:17-81
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:26:17-81
 uses-sdk
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f9116a8febd9151dd3b1219f638e931e/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.55.4] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/f9116a8febd9151dd3b1219f638e931e/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/42864c660d44ff20bc332449c67f9e57/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/42864c660d44ff20bc332449c67f9e57/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b4f7db29e102019cc4380cec906b5444/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.0.1] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/support-v4-23.0.1.aar/b4f7db29e102019cc4380cec906b5444/AndroidManifest.xml:20:5-43
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a33e323bcd71e7bd6295ae9ce3ca1d07/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/a33e323bcd71e7bd6295ae9ce3ca1d07/AndroidManifest.xml:14:5-16:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/46cd73defff90ea0d2b3a21799daab60/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/46cd73defff90ea0d2b3a21799daab60/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7a8f92ab800568c58f3fb13d8c70d11c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/7a8f92ab800568c58f3fb13d8c70d11c/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/1e3807bc7d9e452595beed0bc605297a/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/1e3807bc7d9e452595beed0bc605297a/AndroidManifest.xml:2:3-70
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e611a5c0f47c467aa3f7c924342ed616/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/e611a5c0f47c467aa3f7c924342ed616/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6f2bfdbb744a14d2c545e59299b24940/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/6f2bfdbb744a14d2c545e59299b24940/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/61377026c724daa33e07fe505d8b6ab9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/61377026c724daa33e07fe505d8b6ab9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/837c9c37dc1ca6b406073c312d4fd9bb/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/837c9c37dc1ca6b406073c312d4fd9bb/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\482195b33212cf40ab29c4489a020d72\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\482195b33212cf40ab29c4489a020d72\AndroidManifest.xml:20:5-43
+MERGED from [:react-native-google-places] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-google-places\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-places] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-google-places\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-places:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.2.aar\0cfd3c793c3ecfec2cbf6dd406e5b42d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-11.6.2.aar\0cfd3c793c3ecfec2cbf6dd406e5b42d\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\863aee8c318e2cc8abe3d6530295ac6c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-11.6.2.aar\863aee8c318e2cc8abe3d6530295ac6c\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\3bd86ad8696ad778901e3da5905b31af\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.6.2.aar\3bd86ad8696ad778901e3da5905b31af\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\cfc26506617be0f7dc47b277b2043423\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\cfc26506617be0f7dc47b277b2043423\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dd47ca6b0e31cc34ba6d076113fc38f4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dd47ca6b0e31cc34ba6d076113fc38f4\AndroidManifest.xml:21:5-23:54
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\ab48dc78e3cf0f4f0a6c5fbb0335035e\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\textlayoutbuilder-1.0.0.aar\ab48dc78e3cf0f4f0a6c5fbb0335035e\AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\2dbce94b07046030866e642f9ffb1ccd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\fresco-1.3.0.aar\2dbce94b07046030866e642f9ffb1ccd\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\07fddb3e22a108ace0c225b9225e49ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.3.0.aar\07fddb3e22a108ace0c225b9225e49ef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\daa79b8e5f9af47afcba74ef33cac7e0\AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\soloader-0.1.0.aar\daa79b8e5f9af47afcba74ef33cac7e0\AndroidManifest.xml:2:3-70
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\57b337dcfc0f52ba83171a2f36b43bf1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\57b337dcfc0f52ba83171a2f36b43bf1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\9fa39f6821f325f66e575e3ed6cde2f4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\9fa39f6821f325f66e575e3ed6cde2f4\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\570ac9828d0782a823405c2663f8cfe1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\570ac9828d0782a823405c2663f8cfe1\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\10a77f73c9c008af8a4eb55f35eaec7a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\10a77f73c9c008af8a4eb55f35eaec7a\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\fbf23e4542c674ae76188b60a493b883\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\fbf23e4542c674ae76188b60a493b883\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f333e73704e320043bbd42cf95be9016\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\f333e73704e320043bbd42cf95be9016\AndroidManifest.xml:21:5-23:58
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\788fd510a0764f6d691d9802e8fdb390\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\drawee-1.3.0.aar\788fd510a0764f6d691d9802e8fdb390\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9260c891c8e7194794ecf43be5170c79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.3.0.aar\9260c891c8e7194794ecf43be5170c79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0f91f1785deee8b731c69ecefe44e424\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.3.0.aar\0f91f1785deee8b731c69ecefe44e424\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9e683eaf321c3115ce1d708232f4cc23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\fbcore-1.3.0.aar\9e683eaf321c3115ce1d708232f4cc23\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\d103f0928a7d5a6b78a596c218a63e85\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.6.2.aar\d103f0928a7d5a6b78a596c218a63e85\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.2.aar\df7343d649ea385cbd7ee8d0ac8f70aa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-places-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-places-license-11.6.2.aar\df7343d649ea385cbd7ee8d0ac8f70aa\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\8b6614c7685cbc34fc3299900d91e420\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-location-license-11.6.2.aar\8b6614c7685cbc34fc3299900d91e420\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\c89cea99b036520dd1694adc4785ee6f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.6.2.aar\c89cea99b036520dd1694adc4785ee6f\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\6caa1fbbe977a2e574433d79356eb1e5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.6.2.aar\6caa1fbbe977a2e574433d79356eb1e5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\60a1d7fe535a5f4f864b634fcd482087\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-11.6.2.aar\60a1d7fe535a5f4f864b634fcd482087\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\dd47ca6b0e31cc34ba6d076113fc38f4\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.6.2.aar\cf104f039e0a04f7c86c4ec2aec2b343\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-base-11.6.2.aar\6b14ae58a5a0cdc113598580d4efcb05\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\cfc26506617be0f7dc47b277b2043423\AndroidManifest.xml:20:9-121
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\57b337dcfc0f52ba83171a2f36b43bf1\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\57b337dcfc0f52ba83171a2f36b43bf1\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\cfc26506617be0f7dc47b277b2043423\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.6.2] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.6.2.aar\cfc26506617be0f7dc47b277b2043423\AndroidManifest.xml:20:20-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

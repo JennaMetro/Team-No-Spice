@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/saritakhanal/Desktop/Team-No-Spice/whereToEat/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz-rUZ/values-uz-rUZ.xml",
+            "outputFile": "C:\\Users\\Jenna\\Desktop\\koulu\\3\\Team-No-Spice\\whereToEat\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-uz-rUZ\\values-uz-rUZ.xml",
             "map": [
                 {
-                    "source": "/Users/saritakhanal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/42864c660d44ff20bc332449c67f9e57/res/values-uz-rUZ/values-uz-rUZ.xml",
+                    "source": "C:\\Users\\Jenna\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.0.1.aar\\482195b33212cf40ab29c4489a020d72\\res\\values-uz-rUZ\\values-uz-rUZ.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
