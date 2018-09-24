@@ -1,7 +1,7 @@
 import React from 'react';
 import { FlatList, ActivityIndicator, Text, View  } from 'react-native';
 
-export default class FetchExample extends React.Component {
+export default class Restaurants extends React.Component {
 
   constructor(props){
     super(props);
@@ -16,20 +16,13 @@ export default class FetchExample extends React.Component {
         this.setState({
           isLoading: false,
           dataSource:responseJson.results,
-        }, function(){
-
         });
-
       })
       .catch((error) =>{
         console.error(error);
       });
   }
-
-
-
   render(){
-
     if(this.state.isLoading){
       return(
         <View style={{flex: 1, padding: 20}}>
