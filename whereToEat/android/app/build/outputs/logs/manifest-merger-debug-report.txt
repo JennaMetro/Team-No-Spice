@@ -4,6 +4,7 @@ ADDED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\s
 INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
 INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
 INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [:react-native-vector-icons] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\482195b33212cf40ab29c4489a020d72\AndroidManifest.xml:17:1-24:12
 MERGED from [:react-native-google-places] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-google-places\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
@@ -164,6 +165,8 @@ uses-sdk
 INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Jenna\Desktop\koulu\3\Team-No-Spice\whereToEat\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.55.4] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\react-native-0.55.4.aar\6cb42d1c197e7c976ba102e3a7ba60ff\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:appcompat-v7:23.0.1] C:\Users\Jenna\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.0.1.aar\482195b33212cf40ab29c4489a020d72\AndroidManifest.xml:20:5-43
